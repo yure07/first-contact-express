@@ -7,6 +7,7 @@ veículo.
 Realizando o CRUD básico de uma aplicação, com GET, GET by ID, POST, PUT e DELETE.
 
 ## Tecnologias
+- Javascript
 - Express
 - Node.js
 - Insomnia
